@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, please contact us through:
 
 - Submit an Issue
-- Send an email
+- Email: lizhenping18@mails.ucas.ac.cn
 - Join the discussion
 
 ---

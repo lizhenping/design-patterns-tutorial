@@ -179,7 +179,7 @@ python 04-compound-patterns/pipeline/workflow_orchestrator.py
 如有问题或建议，请通过以下方式联系：
 
 - 提交 Issue
-- 发送邮件
+- 邮箱：lizhenping18@mails.ucas.ac.cn
 - 参与讨论
 
 ---
